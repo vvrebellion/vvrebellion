@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vvrebellion
 - ✨ BAS | Art & Technology, Sogang University, 2019-(Candidate)
 - 🙌 Columnist at Trendy4u
-- 👀 I’m interested in interactive code art
+- 👀 I’m interested in generative and interactive art, AI and Machine Learning
 - 🌱 I’m currently learning AI and Machine Learning
-- 💞️ I’m looking to collaborate on creating engaging interactive and visual pieces 
-- 📫 How to reach me: Instagram (@queen.coder) / Twitter (@vvrebellion) / LinkedIn
+- 💞️ Im'm currently working on bringing virtual humans to life
+- 📫 How to reach me: Instagram (@queen.coder) / Twitter (@vvrebellion) / vittoriaventura.vv@gmail.com
