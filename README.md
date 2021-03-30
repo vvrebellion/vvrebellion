@@ -3,5 +3,5 @@
 - 🙌 Columnist at Trendy4u
 - 👀 I’m interested in generative and interactive art, AI and Machine Learning
 - 🌱 I’m currently learning AI and Machine Learning
-- 💞️ Im'm currently working on bringing virtual humans to life
-- 📫 How to reach me: Instagram (@queen.coder) / Twitter (@vvrebellion) / vittoriaventura.vv@gmail.com
+- 💞️ I'm currently working on bringing virtual humans to life
+- 📫 How to reach me: Instagram / Twitter (@vvrebellion) & vittoriaventura.vv@gmail.com
