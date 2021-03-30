@@ -4,4 +4,4 @@
 - 👀 I’m interested in generative and interactive art, AI and Machine Learning
 - 🌱 I’m currently learning AI and Machine Learning
 - 💞️ I'm currently working on bringing virtual humans to life
-- 📫 How to reach me: Instagram / Twitter (@vvrebellion) & vittoriaventura.vv@gmail.com
+- 📫 How to reach me: Instagram @vv.labs
