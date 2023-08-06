@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vvrebellion
-- ✨ BAS | Art & Technology, Sogang University, 2019-(Candidate)
-- 🙌 Columnist at Trendy4u
-- 👀 I’m interested in generative and interactive art, AI and Machine Learning
-- 🌱 I’m currently learning AI and Machine Learning
-- 💞️ I'm working on bringing virtual humans to life
-- 📫 How to reach me: Instagram @vv.labs
+- ✨ BAS | Art & Technology, Sogang University
+- 👀 I’m interested in interactive code art, data visualization, and machine learning
+- 🌱 I’m currently learning about data analytics
+- 💞️ My friends and I brought a virtual human to life @theo.rises
+
